@@ -1,7 +1,20 @@
 body {
-    background-color: aqua;
+    background-color: yellow;
+    align-items: center
 }
 h1 {
-    color: blueviolet;
+    color: brown;
+text-align: center
 
+
+}
+
+h2 {
+    color: brown;
+text-align: center
+}
+
+p {
+    color: brown;
+text-align: center
 }
